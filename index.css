@@ -1,0 +1,54 @@
+body {
+    background: #C2C6CE;
+}
+div {
+    flex: box;
+}
+h1 {
+    background: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+#firstDiv{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background: white;
+     border-radius: 2px;
+}
+
+#secondDiv{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background: white;
+     border-radius: 2px;
+}
+
+#thirdDiv{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background: white;
+     border-radius: 2px;
+}
+
+#fourthDiv{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background: white;
+     border-radius: 2px;
+}
